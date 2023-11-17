@@ -5,6 +5,9 @@
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
+# User-specific: Actually learning Periodic Table
+data/periodicTablePractice.csv
+
 # Local History for Visual Studio Code
 .history/
 

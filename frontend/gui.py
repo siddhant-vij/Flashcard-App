@@ -10,7 +10,7 @@ from backend.sessionProvider import SessionProvider
 BACKGROUND_COLOR: str = "#B1DDC6"
 CURRENT_DIRECTORY: str = os.path.dirname(__file__)
 CSV_FILE: str = os.path.join(
-    CURRENT_DIRECTORY, '..', 'data', 'periodicTable.csv')
+    CURRENT_DIRECTORY, '..', 'data', 'periodicTablePractice.csv')
 
 
 class MainWindow(tk.Tk):
